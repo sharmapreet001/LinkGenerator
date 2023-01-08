@@ -7,7 +7,6 @@ import { AppComponent } from './app.component';
 import { TestComponent } from './test/test.component';
 import { FormsModule } from '@angular/forms';
 import {ClipboardModule} from 'ngx-clipboard';
-import { ngAnimate   } from 'angular-toastr';
 
 
 @NgModule({
